@@ -102,3 +102,7 @@ Capybara.register_driver :selenium_chrome_headless do |app|
 
   Capybara::Selenium::Driver.new(app, browser: :chrome, capabilities: options)
 end
+
+Capybara.add_selector(:testel) do
+  css { |v| %Q([data-testel="#{v}"]) }
+end
