@@ -1,24 +1,7 @@
-# README
+# 概要
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+FactoryBot が苦手すぎるので FactoryBot を重点的に触ることで無理矢理でも苦手を克服しようというリポジトリ
 
-Things you may want to cover:
+要するに自己満足自分用学習用
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+実際に触って動かしてを繰り返してくことで慣れることもあるよねきっと
